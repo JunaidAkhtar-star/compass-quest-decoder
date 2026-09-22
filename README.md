@@ -62,7 +62,7 @@ assets/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SumitGupta-cse-ai/compass-quest-decoder.git
+https://github.com/JunaidAkhtar-star/compass-quest-decoder.git
 ```
 
 ### 2. Navigate to the Project
@@ -122,7 +122,7 @@ The application is deployed on **Vercel**. Any changes pushed to the **main** br
 
 ## 👨‍💻 Author
 
-**Sumit Gupta**  
+**Junaid Akhtar**  
 B.Tech CSE Student
 
 ---
