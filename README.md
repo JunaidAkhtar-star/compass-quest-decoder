@@ -41,9 +41,6 @@ https://compass-quest-decoder.vercel.app/
 
 ---
 
-## 📂 Source Code
-
-https://github.com/SumitGupta-cse-ai/compass-quest-decoder
 
 ---
 
